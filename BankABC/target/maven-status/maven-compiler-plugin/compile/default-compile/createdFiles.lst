@@ -1,0 +1,7 @@
+com\mainController.class
+com\dao\Dao.class
+com\model\UserType.class
+com\MainAppForRun.class
+com\model\Customer.class
+com\service\ServiceInterface.class
+com\service\Service.class
